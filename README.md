@@ -42,7 +42,7 @@ Discover the rhythm and melodies that define Sri Lanka's rich cultural landscape
 - **Android Version**: Requires Android 5.0 and up
 - **Release Date**: January 19, 2023
 - **Offered By**: Boom Studio LK
-- **Developed By**: Dinidu Maleezha
+- **Developed By**: Dinidu Maleesha
 
 ## 🚀 Getting Started
 
