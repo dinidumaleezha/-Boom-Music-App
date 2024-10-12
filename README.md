@@ -6,15 +6,15 @@
 
 Here are some screenshots of the app in action:
 
-| Home Screen | Music Player | Playlist Creation |
+| Welcome Screen | Register | Login |
 |-------------|--------------|-------------------|
 | ![Home](images/screenshot1.png) | ![Music Player](images/screenshot2.png) | ![Playlist Creation](images/screenshot3.png) |
 
-| Video Player | Explore | Search |
+| Permission | Privacy Policy | Copyright |
 |--------------|---------|--------|
 | ![Video Player](images/screenshot4.png) | ![Explore](images/screenshot5.png) | ![Search](images/screenshot6.png) |
 
-| Settings | Dark Mode | Equalizer |
+| Home Screen | Profile | Equalizer |
 |----------|-----------|-----------|
 | ![Settings](images/screenshot7.png) | ![Dark Mode](images/screenshot8.png) | ![Equalizer](images/screenshot9.png) |
 
